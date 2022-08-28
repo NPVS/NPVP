@@ -75,6 +75,7 @@ Some missing frames are predicted with 1X fps, some missing frames are predicted
 
 ![Alt Text](img/smmnist_specific_vfi_10to5_1xfps.gif)
 
+![Alt Text](img/bair_specific_vfi_4to5_1xfps.gif)
 # Uncurated Examples of task-specific VFP
 
 
