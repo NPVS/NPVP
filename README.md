@@ -7,7 +7,6 @@ For each task of VFI, VFP, VPE and VRC, we show prediction examples of 1X fps (o
 
 
 
-
 ## Video interpolation (VFI)
 ### **1X fps**
 left column: ground-truth. Right column: predicted videos
@@ -87,6 +86,7 @@ left column: ground-truth, middle column: random prediction 1, right column: ran
 
 # Uncurated Examples of task-specific VFP
 
+### NPVS-D
 ![Alt Text](img/kth_specific_vfp_10to10_1xfps.gif)
 
 ![Alt Text](img/smmnist_specific_vfp_5to10_1xfps.gif)
