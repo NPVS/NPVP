@@ -80,6 +80,11 @@ left column: ground-truth. Right column: predicted videos. <em>Frames with **<sp
 ![Alt Text](img/bair_specific_vfi_4to5_1xfps.gif)
 # Uncurated Examples of task-specific VFP
 
+![Alt Text](img/kth_specific_vfp_10to10_1xfps.gif)
+
+![Alt Text](img/smmnist_specific_vfp_5to10_1xfps.gif)
+
+![Alt Text](img/bair_specific_vfp_2to10_1xfps.gif)
 
 
 
